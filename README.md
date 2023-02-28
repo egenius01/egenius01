@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development and Data Analysis
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on Projects and Tasks involving python, Django
-- 📫 reach me on omoragbonemmanuel@gmaail.com and omoragon emmanuel on linkedin, dotnuel on instagram
+- 📫 reach me on omoragbonemmanuel@gmail.com and omoragon emmanuel on linkedin, @dotnuel on instagram
 
 <!---
 egenius01/egenius01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
