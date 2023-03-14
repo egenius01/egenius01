@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @egenius01
 - 👀 I’m interested in Web Development and Data Analysis
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently working with Django
 - 💞️ I’m looking to collaborate on Projects and Tasks involving python, Django
 - 📫 reach me on omoragbonemmanuel@gmail.com and omoragon emmanuel on linkedin, @dotnuel on instagram
 
